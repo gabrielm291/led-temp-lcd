@@ -15,7 +15,7 @@ Each led needs a 220 ohm resistor between the GND pin and the led, otherwise it 
 - Wire
 - DHT22 (or DHT sensor library) 
 - Adafruit Unified Sensor
-  
-
 
 ![dht22_arduinoNano-300x202](https://github.com/user-attachments/assets/47e30cb8-d988-4ac0-b7b7-9b803cba77f8)
+
+©Copyright by gabrielm291. All rights reserved!
